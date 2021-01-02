@@ -13,4 +13,4 @@ Have some nostalgia for the original menu panorama used from Beta 1.8 to Release
 
 This pack comes in two forms – one with the original *Minecraft* textures, and one with the modern Texture Update (1.14+) textures.
 
-The `pack.mcmeta` file specifies that this pack is only for 1.15/1.16, but just change the `pack_version` if you want to use this for older versions of *Minecraft*.
+The `pack.mcmeta` file specifies that this pack is only for 1.17, but just change the `pack_version` if you want to use this for older versions of *Minecraft*.
